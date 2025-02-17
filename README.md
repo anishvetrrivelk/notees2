@@ -1,6 +1,6 @@
-# notees2
+# Notes 2
 
-This is a full-stack web application built with Node.js, Express, and MongoDB. It includes user authentication, post management, real-time chat, and user profiles. The application also supports Markdown for post content and includes security measures like CSRF protection and input sanitization.
+This is a full-stack web application built with Node.js, Express, and MongoDB. It includes user authentication, post management, real-time chat, and user profiles. The application also supports Markdown for post content and includes security measures like CSRF protection and input sanitization,it helps in communication between various users.
 
 #Features
 
@@ -19,4 +19,4 @@ Database: MongoDB
 Frontend: EJS templates, Webpack for bundling JavaScript
 Real-Time Communication: Socket.IO
 Security: CSRF protection, input sanitization
-Markdown Processing: Marked library
+
